@@ -2,6 +2,13 @@
 
 Estudiante de Ingenieria en Informatica - [UNET](http://www.unet.edu.ve/).
 
+### Habilidades
+- Desarrollo de aplicaciones (C, C++, C#, Java, HTML, PHP, JavaScript, CSS).
+- Sistemas operativos (Windows, Unix, GNU/Linux, FreeBSD).
+- Servidores y servicios.
+- Redes convergentes.
+- Modulos de CCNA de Cisco V5.
+
 ### Experiencias
 
 - Colaborador como Admistrador de Sistemas en Fundación Niño Simón (2014 - Actualidad).
