@@ -10,4 +10,4 @@ Estudiante de Ingenieria en Informatica - [UNET](http://www.unet.edu.ve/).
 ### Sitios de contacto
 
 - [Blog personal](https://ghabrielv.wordpress.com/)
-- [Linkedin](https://www.linkedin.com/profile/view?id=AAIAABzD9CcBb5RBiRtzgQ4qwbTr2Iy5JlU84bU)
+- [Linkedin](https://ve.linkedin.com/in/ghabriel-villarreal-91b758115)
