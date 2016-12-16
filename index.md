@@ -4,9 +4,10 @@ Estudiante de Ingenieria en Informatica - [UNET](http://www.unet.edu.ve/).
 
 ### Experiencias
 
-- Administrador de Sistemas (Universidad Nacional Experimental del Tachira).
+- Colaborador como Admistrador de Sistemas en Fundación Niño Simón (2014 - Actualidad).
+- Administrador de Sistemas en la Universidad Nacional Experimental del Táchira (2015 - Actualidad).
 
 ### Sitios de contacto
 
-- [documentation](https://help.github.com/categories/github-pages-basics/)
-- [contact support](https://github.com/contact)
+- [Blog personal](https://ghabrielv.wordpress.com/)
+- [Linkedin](https://www.linkedin.com/profile/view?id=AAIAABzD9CcBb5RBiRtzgQ4qwbTr2Iy5JlU84bU)
