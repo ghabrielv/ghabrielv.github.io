@@ -1,13 +1,15 @@
 ## Ghabriel Villarreal
 
-Estudiante de Ingenieria en Informatica - [UNET](http://www.unet.edu.ve/).
+Estudiante de Ingeniería en Informática - [UNET](http://www.unet.edu.ve/).
 
 ### Habilidades
 - Desarrollo de aplicaciones (C, C++, C#, Java, HTML, PHP, JavaScript, CSS).
 - Sistemas operativos (Windows, Unix, GNU/Linux, FreeBSD).
 - Servidores y servicios.
 - Redes convergentes.
-- Modulos de CCNA de Cisco V5.
+- Módulos de CCNA de Cisco V5.
+- Mantenimiento y reparación de computadores.
+- Instalación y manejo de sistemas de información.
 
 ### Experiencias
 
