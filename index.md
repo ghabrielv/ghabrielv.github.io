@@ -4,6 +4,9 @@ Estudiante de Ingeniería en Informática - [UNET](http://www.unet.edu.ve/).
 
 ### Habilidades
 - Desarrollo de aplicaciones (C, C++, C#, Java, HTML, PHP, JavaScript, CSS).
+- Desarrollo de aplicaciones con integración de frameworks (JQuery, Bootstrap, Symfony).
+- Desarrollo de aplicaciones con control de versiones (Git).
+- Gestión y administración de Bases de datos (MySQL, Oracle, Postgres).
 - Sistemas operativos (Windows, Unix, GNU/Linux, FreeBSD).
 - Servidores y servicios.
 - Redes convergentes.
