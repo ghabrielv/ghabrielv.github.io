@@ -4,7 +4,7 @@ Estudiante de Ingeniería en Informática - [UNET](http://www.unet.edu.ve/).
 
 ### Habilidades
 - Desarrollo de aplicaciones (C, C++, C#, Java, HTML, PHP, JavaScript, CSS).
-- Desarrollo de aplicaciones con integración de frameworks (JQuery, Bootstrap, Symfony).
+- Desarrollo de aplicaciones con integración de frameworks (JQuery, TypeScript, Bootstrap, Symfony, Laravel).
 - Desarrollo de aplicaciones con control de versiones (Git).
 - Gestión y administración de Bases de datos (MySQL, Oracle, Postgres).
 - Sistemas operativos (Windows, Unix, GNU/Linux, FreeBSD).
@@ -18,6 +18,8 @@ Estudiante de Ingeniería en Informática - [UNET](http://www.unet.edu.ve/).
 
 - Colaborador como Admistrador de Sistemas en Fundación Niño Simón (2014 - Actualidad).
 - Administrador de Sistemas en la Universidad Nacional Experimental del Táchira (2015 - Actualidad).
+- Asesor externo en el área de tecnología en Compresores Servicios C.A. (2017 - Actualidad).
+- Prácticas profesionales en Markdebrand (2017).
 
 ### Sitios de contacto
 
